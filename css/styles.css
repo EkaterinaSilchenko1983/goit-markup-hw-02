@@ -221,6 +221,7 @@ color: var(--accent-color);
 .filter-btn {
 color: var(--secondary-btn-color);
 background-color: var(--btn-background-color);
+cursor: pointer;
 font-family: inherit;
 font-style: normal;
 font-weight: 500;
